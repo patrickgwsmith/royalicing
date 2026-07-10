@@ -17,7 +17,7 @@ We don’t want to learn what new capabilities our platforms have. We want to wa
 
 We want to be the commander surrounded by sharp secretaries who make sense of our half-thoughts.
 
-We want to make important things but then expect a ghostwriter to put things into words.
+We want to make important things but then expect a ghostwriter to put it into words.
 
 We automate so much because we’ve added so many processes, yet we’ve become less involved in the process of learning and making.
 
@@ -37,9 +37,9 @@ To write a prompt is to transcribe my thoughts. Are my thoughts getting both sha
 
 Do I understand what I’ve made? Am I able to debug it? If I see a stacktrace will any of the lines be of familiar files? If a user has a question is my reflex to ask an agent?
 
-Why is it that they ask me? Because of the brand I own or am a custodian of?
+Why is it that customers ask me? Because of the brand I own or am a custodian of?
 
-What are they paying me for? Because I claim to be able to help this brand and be accountable for parts of it? Yet is the agent accountable to me?
+What are customers paying for? Because I claim to be able to help this brand and be accountable for parts of it? Yet is the agent accountable to me?
 
 If a brand becomes a logo hoisted above a troupe of agents then who owns the brand?
 
