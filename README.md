@@ -2,6 +2,7 @@
 
 ## Blog
 
+- [Indispensable atoms of the computing universe](https://royalicing.com/2026/indispensable-atoms-of-the-computing-universe)
 - [Agents of Our Own Illiteracy](https://royalicing.com/2026/agents-of-our-own-illiteracy)
 - [Death by a Thousand Comments](https://royalicing.com/2026/death-by-a-thousand-comments)
 - [Software is Made of Fickle Loops](https://royalicing.com/2026/software-is-made-of-fickle-loops)
