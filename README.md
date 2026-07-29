@@ -2,6 +2,7 @@
 
 ## Blog
 
+- [Stop treating pull requests like you’re adding a chapter to the bible](https://royalicing.com/2026/stop-treating-pull-requests-like-youre-adding-a-chapter-to-the-bible)
 - [Indispensable atoms of the computing universe](https://royalicing.com/2026/indispensable-atoms-of-the-computing-universe)
 - [Agents of Our Own Illiteracy](https://royalicing.com/2026/agents-of-our-own-illiteracy)
 - [Death by a Thousand Comments](https://royalicing.com/2026/death-by-a-thousand-comments)
