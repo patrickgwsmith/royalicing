@@ -45,7 +45,8 @@ async function addMetadataToResponse(res, url, sha, { title } = {}) {
         const ogType = url.pathname === "/" ? "website" : "article";
         const ogImageURL = new URL("https://cdn.lilapi.com/1/github/RoyalIcing?width=1200&height=628");
         ogImageURL.searchParams.set("t1", title);
-        ogImageURL.searchParams.set("t1-color", "#ed64a6");
+        ogImageURL.searchParams.set("t1-color", "#ffe66b");
+        // ogImageURL.searchParams.set("t1-color", "#ed64a6");
         // ogImageURL.searchParams.set("t2-color", "#ed64a6");
         ogImageURL.searchParams.set("website", "royalicing.com");
         ogImageURL.searchParams.set("author-name", "Patrick Smith");
