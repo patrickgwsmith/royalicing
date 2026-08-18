@@ -5,7 +5,7 @@ date: 2026-08-18T00:56:00Z
 
 # Faster pull requests are faster horses
 
-Perhaps we should throw out the rubber stamp and just commit to main? How would we then work?
+_Perhaps we should throw out the rubber stamp and just commit to main? How would we then work?_
 
 The pull request was an intentionally thoughtful checkpoint to ensure the paperwork of programming was in order. But now with AI the paperwork has been delegated to coding agents. Big teams have a massive bottleneck because so much is being merged in, the branch is out of date in minutes and has to be rebased yet again. And it seems barely anyone reads or writes the commit messages.
 
