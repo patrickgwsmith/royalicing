@@ -13,7 +13,7 @@ The coordination of an ordered commit log is fruitless if your parallel developm
 
 Richard Hipp talks about verifying both source code and verifying compiled code in SQLite. A green test suite is not enough. You test the logic of the code that you author and you test the behavior of the program that you ship. Fuzzing lets virtual cops interrogate the suspect until they squeal “I did it, I was off-by-one, it won’t happen again, I swear!”
 
-Their “don’t trust, verify” philosophy even extends to compilers. Richard says “SQLite in its history has found bugs in each of GCC, clang, and MSVC.”
+Their “don’t trust, verify” philosophy even extends to compilers. [Richard says](https://youtube.com/watch?v=V_qzqY1bb7I&t=1027) “SQLite in its history has found bugs in each of GCC, clang, and MSVC.”
 
 We could also mix in ideas of how Google/Amazon/Meta continuously release software.
 
