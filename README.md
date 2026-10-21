@@ -2,6 +2,7 @@
 
 ## Blog
 
+- [Apple is finding its voice for what more sophisticated multitouch user experiences can be](https://royalicing.com/2026/apple-voice-iphone-duo)
 - [Faster pull requests are faster horses](https://royalicing.com/2026/faster-pull-requests-faster-horses)
 - [Stop treating pull requests like you’re adding a chapter to the bible](https://royalicing.com/2026/stop-treating-pull-requests-like-youre-adding-a-chapter-to-the-bible)
 - [Indispensable atoms of the computing universe](https://royalicing.com/2026/indispensable-atoms-of-the-computing-universe)
